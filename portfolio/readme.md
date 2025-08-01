@@ -1,13 +1,6 @@
-Roy Bosire  
-roy.bosire62@gmail.com  
-August 01, 2025
-
-
-# Do Readme.md
-
 # Regina Mutinda - Portfolio Website
 
-A modern, responsive personal portfolio website showcasing skills, education, projects, and professional experience. Built with clean HTML5 and CSS3, featuring a CSS-only dark mode toggle and smooth animations.
+A modern, responsive personal portfolio website showcasing skills, education, projects, and professional experience. Built with clean HTML5 and CSS, featuring a CSS-only dark mode toggle and smooth animations.
 
 ## ✨ Features
 
@@ -81,7 +74,7 @@ portfolio/
    cd portfolio
    ```
 
-2. **Add Your Profile Image**
+2. **Add a Profile Image**
    - Replace the placeholder image URL in the HTML
    - Add your actual profile image as `babe.jpg` in the root directory
    - Update the `src` attribute in the profile image tag
@@ -195,7 +188,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Regina Mutinda**
 - 📧 Email: [rmmutinda02@gmail.com](mailto:rmmutinda02@gmail.com)
 - 💻 GitHub: [@Mutindadev](https://github.com/Mutindadev)
-- 💼 LinkedIn: [Regina Mutinda](https://linkedin.com/in/regina-mutinda)
+- 💼 LinkedIn: [Regina Mutinda](https://linkedin.com/in/regina-mutinda-174934292)
 
 ## 🙏 Acknowledgments
 
